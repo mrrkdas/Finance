@@ -1,0 +1,2 @@
+We could use the functions to pull data, use a them to make a prediction on the next 10 days, then use those predictions to see how much we get on return!!!!!
+
