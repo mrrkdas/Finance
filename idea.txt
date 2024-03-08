@@ -1,2 +1,5 @@
-We could use the functions to pull data, use a them to make a prediction on the next 10 days, then use those predictions to see how much we get on return!!!!!
+Idea -
+
+    * Be able to input a stock
+    * Predict 1 day, 1 week, 1 month, 1 year stock price
 
